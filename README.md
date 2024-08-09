@@ -8,8 +8,8 @@ A sleek and interactive web application for ordering cakes online, built with HT
 3) User-Friendly: Simple navigation and streamlined ordering process.
    
  Technologies Used:
-HTML: Provides the structure of the website.
-CSS: Handles styling and layout for a visually appealing design.
-JavaScript: Adds interactivity and dynamic features.
+1) HTML: Provides the structure of the website.
+2) CSS: Handles styling and layout for a visually appealing design.
+3) JavaScript: Adds interactivity and dynamic features.
 
 
