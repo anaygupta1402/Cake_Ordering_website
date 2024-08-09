@@ -12,4 +12,5 @@ A sleek and interactive web application for ordering cakes online, built with HT
 2) CSS: Handles styling and layout for a visually appealing design.
 3) JavaScript: Adds interactivity and dynamic features.
 
+![Image 1](https://github.com/user-attachments/assets/c80d6b31-e9f7-4329-b782-287056c2729e)
 
