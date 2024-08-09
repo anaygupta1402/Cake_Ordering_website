@@ -6,6 +6,7 @@ A sleek and interactive web application for ordering cakes online, built with HT
 1) Adapts to any device with live updates on customizations.
 2) Interactive: Customizable options with instant feedback.
 3) User-Friendly: Simple navigation and streamlined ordering process.
+   
  Technologies Used:
 HTML: Provides the structure of the website.
 CSS: Handles styling and layout for a visually appealing design.
